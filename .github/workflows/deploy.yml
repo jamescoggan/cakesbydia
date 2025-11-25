@@ -40,8 +40,9 @@ jobs:
           NEXT_PUBLIC_BASE_PATH: /cakesbydia
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
         with:
+          static_site_generator: next
           enablement: true
 
       - name: Upload artifact
