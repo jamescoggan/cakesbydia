@@ -3,3 +3,14 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+**/node_modules/
+**/.next/
+**/out/
+**/dist/
+**/.turbo/
+**/.vercel/
+**/.env
+**/.env.*
+!.env.example
+*.tsbuildinfo
+.DS_Store

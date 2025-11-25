@@ -1,0 +1,133 @@
+{
+  "search_summary": {
+    "requested_account": "@cakes_by_dia",
+    "status": "Account not found in public search results",
+    "findings": "The exact Instagram account '@cakes_by_dia' does not appear in public web search results. This could indicate the account is private, has a different spelling, or has limited public visibility.",
+    "alternative_found": "@bouqcakesbydia",
+    "alternative_note": "This account specializes in cupcakes and cupcake bouquets rather than full-sized elegant wedding cakes."
+  },
+  "recommendation": "Since the specific @cakes_by_dia account cannot be accessed through public search, I recommend either: (1) Verifying the exact Instagram handle with the client, (2) Using the browser to manually access the account if you have login credentials, or (3) Selecting from high-quality elegant wedding cake images found during the search from similar professional cake businesses.",
+  "elegant_wedding_cake_images_found": [
+    {
+      "id": 1,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744658831365246290",
+      "source": "@gabrieldiazcakedesigner",
+      "description": "Elegant white wedding cake with modern and classic details, sophisticated design",
+      "dimensions": "1440x1800",
+      "style": "Modern elegant, white with delicate details"
+    },
+    {
+      "id": 2,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3748401891857269528",
+      "source": "@gabrieldiazcakedesigner",
+      "description": "Elegant simplicity wedding cake design with modern details",
+      "dimensions": "1440x1799",
+      "style": "Classic white, elegant simplicity"
+    },
+    {
+      "id": 3,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3744042773654703205",
+      "source": "@gabrieldiazcakedesigner",
+      "description": "Professional wedding cake with sophisticated design",
+      "dimensions": "1440x1800",
+      "style": "Elegant, professional"
+    },
+    {
+      "id": 4,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3757775460974581529",
+      "source": "Wedding cake by @cakesbyanna",
+      "description": "Perfect valentines wedding cake, elegant design",
+      "dimensions": "1440x1920",
+      "style": "Romantic, elegant"
+    },
+    {
+      "id": 5,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3754972401630281809",
+      "source": "Wedding cake by @cakesbyanna",
+      "description": "Elegant wedding cake for special celebration",
+      "dimensions": "1440x1920",
+      "style": "Classic, sophisticated"
+    },
+    {
+      "id": 6,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3757885939411714470",
+      "source": "Wedding cake by @cakesbyanna",
+      "description": "Beautiful wedding cake with elegant details",
+      "dimensions": "1440x1687",
+      "style": "Elegant, celebration"
+    },
+    {
+      "id": 7,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3676029991412087546",
+      "source": "Professional cake designer",
+      "description": "Classic white cake adorned with delicate pearls, elegant simplicity",
+      "dimensions": "640x1136",
+      "style": "Pearl details, classic white"
+    },
+    {
+      "id": 8,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3764226745349089894",
+      "source": "@dariosbakery",
+      "description": "Wedding cake decorated with drapes and white fresh flowers",
+      "dimensions": "1440x1920",
+      "style": "Floral, elegant draping"
+    },
+    {
+      "id": 9,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3741077957998685857",
+      "source": "Professional wedding cake",
+      "description": "Three tiers wrapped in white with pastel flowers, perfect centerpiece",
+      "dimensions": "1440x1562",
+      "style": "Pastel flowers, three-tier"
+    },
+    {
+      "id": 10,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3724388917165918624",
+      "source": "Professional wedding cakes",
+      "description": "Timeless elegance to modern glam wedding cake",
+      "dimensions": "1440x1794",
+      "style": "Modern glam, elegant"
+    },
+    {
+      "id": 11,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3724388917165916146",
+      "source": "Professional wedding cakes",
+      "description": "Wedding cake with timeless elegance and modern design",
+      "dimensions": "1440x1803",
+      "style": "Timeless, modern"
+    },
+    {
+      "id": 12,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3538109718453398342",
+      "source": "@heidivieracakes",
+      "description": "Elegant wedding cake inspired by bride's stunning dress",
+      "dimensions": "1024x1024",
+      "style": "Dress-inspired, elegant"
+    },
+    {
+      "id": 13,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3709395853942804209",
+      "source": "Professional cake designer",
+      "description": "Classic elegant design with soft white tones and delicate flowers",
+      "dimensions": "1440x1918",
+      "style": "Soft white, delicate flowers"
+    },
+    {
+      "id": 14,
+      "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3728080024181494871",
+      "source": "Professional wedding cake",
+      "description": "Elegant 4-tiered wedding cake for special celebration",
+      "dimensions": "1440x1734",
+      "style": "Four-tier, elegant"
+    },
+    {
+      "id": 15,
+      "url": "http://zestbakeshop.com/cdn/shop/products/flowercakewebsite.jpg?v=1624913823",
+      "source": "Zest Bake Shop",
+      "description": "Elegant Floral Celebration Cake",
+      "dimensions": "3461x3651",
+      "style": "Floral, celebration"
+    }
+  ],
+  "additional_notes": "All images are high-resolution (minimum 640px on shortest side) and showcase elegant, sophisticated cake designs suitable for weddings and celebrations. These images represent premium quality cake artistry from professional cake designers and would be appropriate for a sophisticated, modern cake business targeting weddings and celebrations."
+}

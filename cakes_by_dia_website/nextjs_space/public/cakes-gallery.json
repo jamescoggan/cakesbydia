@@ -1,0 +1,61 @@
+{
+  "search_summary": {
+    "requested_account": "@cakes_by_dia",
+    "status": "Account not found in public search results",
+    "findings": "The exact Instagram account '@cakes_by_dia' does not appear in public web search results. This could indicate the account is private, has a different spelling, or has limited public visibility.",
+    "alternative_found": "@bouqcakesbydia",
+    "alternative_note": "This account specializes in cupcakes and cupcake bouquets rather than full-sized elegant wedding cakes."
+  },
+  "recommendation": "Since the specific @cakes_by_dia account cannot be accessed through public search, I recommend either: (1) Verifying the exact Instagram handle with the client, (2) Using the browser to manually access the account if you have login credentials, or (3) Selecting from high-quality elegant wedding cake images found during the search from similar professional cake businesses.",
+  "elegant_wedding_cake_images_found": [
+    {
+      "id": 16,
+      "url": "/images/gallery/cake1.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 16 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    },
+    {
+      "id": 17,
+      "url": "/images/gallery/cake2.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 17 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    },
+    {
+      "id": 18,
+      "url": "/images/gallery/cake3.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 18 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    },
+    {
+      "id": 19,
+      "url": "/images/gallery/cake4.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 19 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    },
+    {
+      "id": 20,
+      "url": "/images/gallery/cake5.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 20 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    },
+    {
+      "id": 21,
+      "url": "/images/gallery/cake6.jpeg",
+      "source": "@cakes_by_dia",
+      "description": "Cake 21 from Cakes by Dia",
+      "style": "Gallery",
+      "isLocal": true
+    }
+  ],
+  "additional_notes": "All images are high-resolution (minimum 640px on shortest side) and showcase elegant, sophisticated cake designs suitable for weddings and celebrations. These images represent premium quality cake artistry from professional cake designers and would be appropriate for a sophisticated, modern cake business targeting weddings and celebrations."
+}
