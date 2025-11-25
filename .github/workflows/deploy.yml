@@ -36,8 +36,9 @@ jobs:
         working-directory: cakes_by_dia_website/nextjs_space
         run: npm run build
         env:
-          # Set basePath to repo name for GitHub Pages project sites
-          NEXT_PUBLIC_BASE_PATH: /cakesbydia
+          # Empty basePath for custom domain (cakesbydia.com)
+          # Use /cakesbydia only if using jamescoggan.github.io/cakesbydia
+          NEXT_PUBLIC_BASE_PATH: ''
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
