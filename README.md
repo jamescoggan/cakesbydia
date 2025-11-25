@@ -8,7 +8,7 @@ This Next.js website is configured to deploy to GitHub Pages.
 
 2. **Enable GitHub Pages**:
    - Go to your repository Settings → Pages
-   - Under "Source", select "GitHub Actions" (not "Deploy from a branch")
+   - Under "Source", select "GitHub Actions" (not "Deploy from a branch")  <- This!
    - Save
 
 3. **Configure Base Path** (if needed):
